@@ -1,0 +1,56 @@
+#                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name               accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----     -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lipase               PF00151.25   336 BJAM.scaffold11245.21679 -             99   1.6e-18   67.6   0.0   1   1   1.5e-22   1.9e-18   67.3   0.0   147   241     2    90     1    95 0.95 Lipase
+Abhydrolase_1        PF00561.26   245 BJAM.scaffold11245.21679 -             99      0.17   11.9   0.0   1   1   1.6e-05       0.2   11.7   0.0    70   123     3    54     1    64 0.77 alpha/beta hydrolase fold
+Lipase               PF00151.25   336 BJAM.scaffold1557.8398 -            267   3.6e-59  201.2   0.0   1   1   6.5e-63   5.3e-59  200.6   0.0    54   311    11   262     3   266 0.90 Lipase
+Abhydrolase_6        PF12697.13   217 BJAM.scaffold1557.8398 -            267   0.00077   20.6   0.1   1   1   1.2e-07   0.00097   20.3   0.1     2    82    31   122    30   175 0.64 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.26   245 BJAM.scaffold1557.8398 -            267      0.01   15.9   1.5   1   1   1.3e-05       0.1   12.6   1.5     4    96    31   133    28   157 0.75 alpha/beta hydrolase fold
+Lipase               PF00151.25   336 BJAM.scaffold2545.11653 -            169     4e-39  135.3   0.0   1   1   9.4e-43   4.6e-39  135.1   0.0    96   217     5   128     1   136 0.92 Lipase
+Abhydrolase_6        PF12697.13   217 BJAM.scaffold2545.11653 -            169    0.0039   18.3   0.2   1   1   8.8e-07    0.0043   18.2   0.2    63   100    45   109     3   163 0.62 Alpha/beta hydrolase family
+Ser_hydrolase        PF06821.19   172 BJAM.scaffold2545.11653 -            169     0.093   13.1   0.0   1   1   2.1e-05       0.1   12.9   0.0    39    87    40    85    18   128 0.83 Serine hydrolase
+PMI_typeI_cat        PF20511.4    143 BJAM.scaffold2545.11653 -            169      0.27   11.8   0.0   1   2       2.4   1.2e+04   -3.3   0.0    45    62    21    38    16    44 0.70 Phosphomannose isomerase type I, catalytic domain
+PMI_typeI_cat        PF20511.4    143 BJAM.scaffold2545.11653 -            169      0.27   11.8   0.0   2   2   0.00011      0.52   10.8   0.0    20    96    75   151    70   155 0.91 Phosphomannose isomerase type I, catalytic domain
+Nop                  PF01798.23   228 BJAM.scaffold2545.11653 -            169      0.35   10.7   0.0   1   1   9.8e-05      0.48   10.3   0.0   111   135    50    74    38    78 0.91 snoRNA binding domain, fibrillarin
+Lipase               PF00151.25   336 BJAM.TU.12209        -            513   3.8e-67  227.4   0.0   1   1   4.2e-71   5.1e-67  227.0   0.0     2   251    56   305    55   315 0.89 Lipase
+Abhydrolase_6        PF12697.13   217 BJAM.TU.12209        -            513   1.5e-05   26.2   1.0   1   1   1.9e-09   2.3e-05   25.6   1.0     3    85   130   224   129   297 0.65 Alpha/beta hydrolase family
+Lipase               PF00151.25   336 BJAM.scaffold3142.13175 -            440   9.1e-67  226.2   0.0   1   1   1.9e-70   1.1e-66  225.8   0.0    30   316    29   308    19   322 0.90 Lipase
+Beta-prop_WDR3_1st   PF25173.1    184 BJAM.scaffold3142.13175 -            440     0.076   13.1   0.0   1   2   5.7e-05      0.35   11.0   0.0    38   107    45   116    26   131 0.85 WDR3 first beta-propeller domain
+Beta-prop_WDR3_1st   PF25173.1    184 BJAM.scaffold3142.13175 -            440     0.076   13.1   0.0   2   2      0.26   1.6e+03   -1.0   0.0    90   105   294   309   282   318 0.76 WDR3 first beta-propeller domain
+Abhydrolase_6        PF12697.13   217 BJAM.scaffold3142.13175 -            440      0.19   12.8   0.6   1   1   4.8e-05      0.29   12.2   0.6     2    97    72   181    72   240 0.62 Alpha/beta hydrolase family
+DUF7383              PF24108.1    123 BJAM.scaffold3142.13175 -            440       0.2   12.3   0.0   1   1   6.3e-05      0.38   11.4   0.0    47   114   276   343   258   347 0.87 Family of unknown function (DUF7383)
+Lipase               PF00151.25   336 BJAM.scaffold368.2758 -            469     6e-56  190.6   0.4   1   1   1.8e-58   4.3e-55  187.8   0.4    23   336    59   336    42   336 0.84 Lipase
+Abhydrolase_6        PF12697.13   217 BJAM.scaffold368.2758 -            469   0.00061   20.9   0.0   1   1   3.3e-07   0.00081   20.5   0.0     2    85   106   211   105   296 0.65 Alpha/beta hydrolase family
+Abhydrolase_1        PF00561.26   245 BJAM.scaffold368.2758 -            469    0.0051   16.9   0.1   1   1   5.7e-06     0.014   15.5   0.1     2    83   104   193   103   228 0.80 alpha/beta hydrolase fold
+Lipase_3             PF01764.32   140 BJAM.scaffold368.2758 -            469     0.015   15.7   0.0   1   1   9.4e-06     0.023   15.0   0.0     9    84   115   200   105   207 0.80 Lipase (class 3)
+BD-FAE               PF20434.5    215 BJAM.scaffold368.2758 -            469     0.034   14.1   0.0   1   1   2.1e-05     0.052   13.5   0.0    59   111   152   201   100   243 0.82 BD-FAE
+LIDHydrolase         PF10230.15   262 BJAM.scaffold368.2758 -            469     0.073   13.2   0.0   1   1   5.9e-05      0.15   12.2   0.0    64    98   158   193   149   215 0.78 Lipid-droplet associated hydrolase
+VirJ                 PF06057.17   191 BJAM.scaffold368.2758 -            469     0.082   13.2   0.0   1   1   5.3e-05      0.13   12.6   0.0    39    90   150   202   127   210 0.81 Bacterial virulence protein (VirJ)
+Abhydrolase_2        PF02230.22   217 BJAM.scaffold368.2758 -            469     0.087   13.1   0.0   1   2      0.82     2e+03   -1.2   0.0    14    35   102   125    95   138 0.71 Phospholipase/Carboxylesterase
+Abhydrolase_2        PF02230.22   217 BJAM.scaffold368.2758 -            469     0.087   13.1   0.0   2   2   0.00014      0.34   11.1   0.0    79   168   152   243   144   255 0.81 Phospholipase/Carboxylesterase
+DUF900               PF05990.18   232 BJAM.scaffold368.2758 -            469     0.092   12.6   0.0   1   1     6e-05      0.15   11.9   0.0    23   108   106   193    93   201 0.79 Alpha/beta hydrolase of unknown function (DUF900)
+Gal_mutarotas_2      PF13802.12   184 BJAM.scaffold368.2758 -            469      0.12   13.1   0.0   1   1     9e-05      0.22   12.2   0.0   158   182   309   334   284   334 0.92 Glycosyl hydrolase 31 N-terminal galactose mutarotase-like domain
+Lipase               PF00151.25   336 BJAM.scaffold5386.17020 -            411   3.4e-82  276.9   0.0   1   1     1e-85   4.2e-82  276.6   0.0    92   336     1   258     1   258 0.89 Lipase
+Abhydrolase_1        PF00561.26   245 BJAM.scaffold5386.17020 -            411   9.5e-05   22.6   0.1   1   1   3.6e-08   0.00015   22.0   0.1    21   109     3    95     1   115 0.77 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.13   217 BJAM.scaffold5386.17020 -            411   0.00095   20.3   0.2   1   2     7e-07    0.0028   18.7   0.2    22   105     4    99     2   166 0.59 Alpha/beta hydrolase family
+Abhydrolase_6        PF12697.13   217 BJAM.scaffold5386.17020 -            411   0.00095   20.3   0.2   2   2         1   4.2e+03   -1.4   0.0   141   178   276   324   230   348 0.59 Alpha/beta hydrolase family
+LIDHydrolase         PF10230.15   262 BJAM.scaffold5386.17020 -            411      0.13   12.4   0.0   1   1   4.7e-05      0.19   11.8   0.0    70   114    45    84     6   103 0.72 Lipid-droplet associated hydrolase
+DUF676               PF05057.20   217 BJAM.scaffold5386.17020 -            411      0.26   11.2   0.1   1   1   0.00011      0.44   10.4   0.1    60    95    41    73    29    89 0.87 Putative serine esterase (DUF676)
+Esterase             PF00756.26   251 BJAM.scaffold5386.17020 -            411      0.28   11.4   0.0   1   1   0.00011      0.47   10.6   0.0   100   129    41    70    20    76 0.93 Putative esterase
+Lipase               PF00151.25   336 BJAM.scaffold651.4482 -            126   3.2e-10   40.3   0.0   1   1   4.2e-14   3.4e-10   40.2   0.0    33   123    30   123    13   126 0.81 Lipase
+PAE                  PF03283.19   355 BJAM.scaffold651.4482 -            126     0.018   14.6   0.0   1   1   2.6e-06     0.021   14.4   0.0    14    48    55    90    43   103 0.85 Pectinacetylesterase
+PH_TFIIH             PF08567.17    88 BJAM.scaffold651.4482 -            126      0.08   13.7   0.0   1   1   1.5e-05      0.12   13.1   0.0     4    45    26    67    23    75 0.86 TFIIH p62 subunit, N-terminal domain
+Lipase               PF00151.25   336 BJAM.scaffold689.4667 -            120     3e-18   66.7   0.0   1   1   1.4e-22   3.5e-18   66.5   0.0   147   241     2    90     1    96 0.94 Lipase
+Lipase               PF00151.25   336 BJAM.scaffold83.625  -            452     3e-61  208.0   0.0   1   1   4.7e-65   3.9e-61  207.7   0.0    44   277    31   274    11   335 0.92 Lipase
+Abhydrolase_6        PF12697.13   217 BJAM.scaffold83.625  -            452    0.0014   19.7   0.5   1   1   2.9e-07    0.0024   19.0   0.5     1   113    60   183    60   227 0.65 Alpha/beta hydrolase family
+tRNA-synt_His        PF13393.11   308 BJAM.scaffold83.625  -            452      0.01   15.5   0.0   1   1   2.2e-06     0.018   14.7   0.0   259   298   280   320   277   321 0.91 Histidyl-tRNA synthetase
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      lipase/jamesi/lipase_hits.faa
+# Target file:     Pfam-A.hmm
+# Option settings: hmmscan --domtblout lipase/jamesi/lipase_domains.tbl Pfam-A.hmm lipase/jamesi/lipase_hits.faa 
+# Current dir:     /home/jeremy/btw_seq/diamond_workflow
+# Date:            Mon May 19 10:26:07 2025
+# [ok]

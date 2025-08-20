@@ -1,0 +1,50 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Lipase               PF00151.25   336 k141_791942_1        -             79   4.7e-14   52.9   0.0   1   1   4.1e-18     5e-14   52.8   0.0   105   177     2    77     1    78 0.92 Lipase
+PGAP1                PF07819.20   233 k141_791942_1        -             79      0.28   11.3   0.1   1   1   2.6e-05      0.31   11.2   0.1    81   105    37    61    27    70 0.82 PGAP1-like alpha/beta domain
+Lipase               PF00151.25   336 k141_1616597_2       -             85     5e-09   36.4   0.0   1   1   2.2e-13   5.5e-09   36.2   0.0    72   138    14    81     3    84 0.87 Lipase
+Lipase               PF00151.25   336 k141_104175_1        -             77   1.3e-12   48.1   0.0   1   1   5.7e-17   1.4e-12   48.0   0.0   112   177     7    71     1    74 0.92 Lipase
+Lipase               PF00151.25   336 k141_2815954_1       -            162   2.3e-07   30.9   1.5   1   2      0.21   2.5e+03   -2.1   0.0   297   325    34    61    11    75 0.63 Lipase
+Lipase               PF00151.25   336 k141_2815954_1       -            162   2.3e-07   30.9   1.5   2   2     2e-11   2.5e-07   30.8   0.4   214   242   114   142   105   149 0.87 Lipase
+Lactamase_B          PF00753.33   196 k141_2815954_1       -            162      0.14   12.5   1.3   1   1   1.4e-05      0.18   12.2   1.1   115   139    64    88    41   138 0.90 Metallo-beta-lactamase superfamily
+Lipase               PF00151.25   336 k141_909842_3        -             78     3e-09   37.1   0.1   1   1   2.9e-13   3.5e-09   36.9   0.1   145   177     2    33     1    41 0.94 Lipase
+Abhydrolase_6        PF12697.13   217 k141_909842_3        -             78      0.16   13.0   0.0   1   1   1.4e-05      0.17   12.9   0.0    66   100     4    53     2    75 0.73 Alpha/beta hydrolase family
+Lipase               PF00151.25   336 k141_909842_4        -            109   2.4e-24   86.7   0.1   1   1   1.2e-28     3e-24   86.4   0.1   176   243    30    97    25   104 0.95 Lipase
+Lipase               PF00151.25   336 k141_2072606_1       -             95   2.1e-11   44.1   0.1   1   1   1.9e-15   2.3e-11   44.0   0.1   215   253     5    41     2    71 0.79 Lipase
+Exo_endo_phos_2      PF14529.12   117 k141_2072606_1       -             95      0.12   12.7   0.1   1   1   1.4e-05      0.18   12.1   0.1    20    43    74    94    58    94 0.71 Endonuclease-reverse transcriptase
+Lipase               PF00151.25   336 k141_2072606_2       -             81   9.2e-20   71.6   0.3   1   1     4e-23   1.1e-19   71.4   0.3    92   162     1    71     1    73 0.96 Lipase
+Abhydrolase_1        PF00561.26   245 k141_2072606_2       -             81   0.00011   22.3   0.1   1   1     5e-08   0.00014   22.1   0.1    21    83     3    70     1    71 0.84 alpha/beta hydrolase fold
+Abhydrolase_6        PF12697.13   217 k141_2072606_2       -             81    0.0011   20.1   0.2   1   1   4.9e-07    0.0013   19.8   0.2    22    80     4    70     2    78 0.61 Alpha/beta hydrolase family
+Esterase             PF00756.26   251 k141_2072606_2       -             81     0.024   14.8   0.0   1   1   1.6e-05     0.043   14.0   0.0   100   129    41    70    26    70 0.93 Putative esterase
+DUF900               PF05990.18   232 k141_2072606_2       -             81      0.03   14.2   0.0   1   1   1.3e-05     0.035   14.0   0.0    51   108    12    70     3    74 0.84 Alpha/beta hydrolase of unknown function (DUF900)
+LIDHydrolase         PF10230.15   262 k141_2072606_2       -             81     0.041   14.0   0.1   1   1   1.5e-05     0.042   14.0   0.1    59    98    36    70     3    75 0.67 Lipid-droplet associated hydrolase
+Abhydrolase_3        PF07859.19   210 k141_2072606_2       -             81     0.066   13.4   0.1   1   1   3.2e-05     0.087   13.0   0.1    52    86    40    71    23    77 0.86 alpha/beta hydrolase fold
+DUF676               PF05057.20   217 k141_2072606_2       -             81     0.099   12.6   0.0   1   1   4.3e-05      0.12   12.3   0.0    60    92    41    70    25    72 0.88 Putative serine esterase (DUF676)
+BD-FAE               PF20434.5    215 k141_2072606_2       -             81      0.15   12.0   0.1   1   1   5.8e-05      0.16   11.9   0.1    73   103    43    70     3    72 0.75 BD-FAE
+Lipase               PF00151.25   336 k141_2072606_3       -            108   6.5e-07   29.4   0.0   1   1   2.9e-11   7.1e-07   29.3   0.0     2    90    20   106    19   107 0.93 Lipase
+Lipase               PF00151.25   336 k141_1694392_1       -            194   4.3e-61  207.5   0.1   1   1     2e-65     5e-61  207.3   0.1   116   295     1   181     1   189 0.95 Lipase
+Lipase               PF00151.25   336 k141_2475197_2       -             89   2.3e-10   40.8   0.0   1   1   3.1e-14   2.5e-10   40.6   0.0   124   177    31    85    16    87 0.89 Lipase
+Lipase_3             PF01764.32   140 k141_2475197_2       -             89   0.00039   20.7   0.0   1   1   5.4e-08   0.00044   20.6   0.0    37    86    29    77     8    85 0.70 Lipase (class 3)
+DIP2311-like_C       PF22168.2     63 k141_2475197_2       -             89     0.031   15.0   0.0   1   1   4.4e-06     0.036   14.8   0.0     3    37    34    67    32    86 0.77 Transcriptional regulator DIP2311-like, C-terminal domain
+Lipase               PF00151.25   336 k141_642123_2        -             94   1.6e-18   67.6   0.0   1   1   8.5e-22   1.9e-18   67.3   0.0   105   177     2    75     1    76 0.93 Lipase
+VirJ                 PF06057.17   191 k141_642123_2        -             94    0.0029   17.9   0.0   1   1   1.4e-06    0.0032   17.8   0.0    39    91    16    69     8    82 0.81 Bacterial virulence protein (VirJ)
+LIDHydrolase         PF10230.15   262 k141_642123_2        -             94     0.011   15.9   0.0   1   1   5.2e-06     0.012   15.8   0.0    64    99    24    60    13    83 0.74 Lipid-droplet associated hydrolase
+Abhydrolase_6        PF12697.13   217 k141_642123_2        -             94     0.015   16.4   0.0   1   1   6.7e-06     0.015   16.4   0.0    53    84    28    63     5    88 0.73 Alpha/beta hydrolase family
+BD-FAE               PF20434.5    215 k141_642123_2        -             94     0.021   14.8   0.0   1   1   1.1e-05     0.025   14.5   0.0    59   111    18    67    11    78 0.85 BD-FAE
+Lipase_3             PF01764.32   140 k141_642123_2        -             94     0.029   14.7   0.0   1   1   1.5e-05     0.033   14.5   0.0    48    85    24    67     3    76 0.66 Lipase (class 3)
+Abhydrolase_2        PF02230.22   217 k141_642123_2        -             94     0.078   13.2   0.0   1   1   4.1e-05      0.09   13.0   0.0    79   136    18    76    10    86 0.90 Phospholipase/Carboxylesterase
+Abhydrolase_1        PF00561.26   245 k141_642123_2        -             94     0.095   12.8   0.0   1   1   4.8e-05      0.11   12.6   0.0    54    83    28    59    21    76 0.87 alpha/beta hydrolase fold
+Hydrolase_4          PF12146.15   239 k141_642123_2        -             94     0.098   12.4   0.0   1   1   4.8e-05      0.11   12.2   0.0    54    90    21    59    10    74 0.87 Serine aminopeptidase, S33
+DUF900               PF05990.18   232 k141_642123_2        -             94       0.2   11.5   0.0   1   1   9.6e-05      0.21   11.4   0.0    53   108     2    59     1    70 0.84 Alpha/beta hydrolase of unknown function (DUF900)
+Cleaved_Adhesin      PF07675.18   174 k141_642123_2        -             94      0.25   11.7   0.0   1   1   0.00013      0.29   11.5   0.0    48   118     2    70     1    78 0.86 Cleaved Adhesin Domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      lipase/bgi/lipase_hits.faa
+# Target file:     Pfam-A.hmm
+# Option settings: hmmscan --domtblout lipase/bgi/lipase_domains.tbl Pfam-A.hmm lipase/bgi/lipase_hits.faa 
+# Current dir:     /home/jeremy/btw_seq/diamond_workflow
+# Date:            Mon May 19 10:26:05 2025
+# [ok]
